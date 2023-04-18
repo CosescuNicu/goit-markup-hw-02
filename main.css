@@ -1,1 +1,16 @@
+.global-header {
+    color: none;
+}
 
+.global-header .primary-navigation a {
+  color: #212121
+
+}
+.main-description {
+  color: #757575;
+
+}
+h1,h2, h3, h4 {
+    color: #212121;
+    ;
+}
