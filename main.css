@@ -1,16 +1,12 @@
 .global-header {
-    color: none;
-}
-
-.global-header .primary-navigation a {
-  color: #212121
-
+  color: black;
 }
 .main-description {
-  color: #757575;
-
+  color: #212121;
 }
-h1,h2, h3, h4 {
-    color: #212121;
-    ;
+.namepictureportofolio {
+  color: blue;
+}
+.studiospan {
+  color: rgb(14, 14, 13);
 }
