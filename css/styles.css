@@ -1,12 +1,19 @@
 @import url("https://fonts.googleapis.com/css2?family=Raleway:wght@700&family=Roboto:wght@400;500;700;900&display=swap");
 
+body {
+  position: relative;
+  width: 1600px;
+  height: 2348px;
+  background: #ffffff;
+}
+
 h1,
 h2,
 h3,
 h4,
 h5,
 h6 {
-  font-family: "Roboto", sans-serif;
+  font-family: "Roboto", "Raleway", sans-serif;
 }
 .global-header {
   position: absolute;
