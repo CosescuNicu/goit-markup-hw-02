@@ -1,0 +1,38 @@
+body {
+  width: 1600px;
+  height: 1879px;
+}
+.portofolio-content {
+  width: 1170px;
+  height: 1360px;
+  left: 215px;
+  top: 174px;
+}
+.portofofio-buutons {
+  position: absolute;
+  display: flex;
+}
+/*.gridcontainer {
+  width: 1170px;
+  height: 1360px;
+  left: 215px;
+  top: 174px;
+  display: flex;
+}*/
+.proiect1,
+proiect2,
+proiect3,
+proiect4,
+proiect5,
+proiect6,
+proiect7,
+proiect8,
+proiect9 {
+  display: flex;
+  flex-wrap: wrap;
+  width: 370px;
+  height: 404px;
+  left: 215px;
+  top: 262px;
+  gap: 15px;
+}
