@@ -142,7 +142,7 @@ ul {
   width: 696px;
   height: 118.4px;
   left: 452px;
-  top: 277.33px;
+  top: 197.33px;
   font-family: "Roboto";
   font-style: normal;
   font-weight: 900;
@@ -156,13 +156,15 @@ ul {
   position: absolute;
   width: 200px;
   height: 49.33px;
-  left: 700px;
+  margin-left: 700px;
   top: 425.33px;
   color: white;
   background: #2196f3;
-  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+  box-shadow: 0px 4px 4px #00000026;
   border-radius: 4px;
+  cursor: pointer;
 }
+
 .our-goals {
   width: 1170px;
   height: 101px;

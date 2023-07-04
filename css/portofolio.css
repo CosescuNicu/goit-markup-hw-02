@@ -132,6 +132,7 @@ ul {
   margin-top: 94px;
   margin-bottom: 94px;
   margin-left: 215px;
+  padding-top: 10px;
 }
 .portofolio-butons {
   display: flex;
@@ -140,15 +141,54 @@ ul {
   margin-left: 327px;
   align-items: flex-start;
   align-content: baseline;
-  gap: 5px;
+  border-radius: 4px;
+  gap: 4px;
 }
 
+.button {
+  color: #212121;
+  text-align: center;
+  font-size: 16px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 26px;
+  letter-spacing: 0.48px;
+  cursor: pointer;
+}
+.button:hover {
+  background-color: #2196f3;
+  color: #ffffff;
+}
 .flex-grid {
   display: flex;
   flex-wrap: wrap;
   align-content: space-around;
   align-items: baseline;
   justify-content: space-evenly;
+}
+.proiect {
+  width: 370px;
+  height: 294px;
+  flex-shrink: 0;
+}
+.image-title {
+  color: #212121;
+  font-size: 18px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 36px;
+  letter-spacing: 1.08px;
+}
+.image-description {
+  color: #757575;
+  font-size: 16px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px;
+  letter-spacing: 0.48px;
 }
 .global-footer {
   position: absolute;
